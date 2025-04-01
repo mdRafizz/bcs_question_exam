@@ -9,7 +9,7 @@ This application provides a platform for users to practice previous year's Bangl
 * **Simulated Exams:** Take exams based on previous years' papers to simulate the actual test environment.
 * **Customized Exams:** Create personalized exams by selecting specific subjects or topics for targeted practice.
 
-**Screenshots**
+## Screenshots
 * **Dashboard**
   ![Image](https://github.com/user-attachments/assets/9ef2cecc-7982-48c5-8da1-81f75569c65f)
 

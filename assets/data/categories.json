@@ -1,0 +1,47 @@
+[
+  {
+    "id": 27,
+    "name": "27th BCS",
+    "type": "General BCS"
+  },
+  {
+    "id": 25,
+    "name": "25th BCS",
+    "type": "General BCS"
+  },
+  {
+    "id": 24,
+    "name": "24th BCS",
+    "type": "General BCS"
+  },
+  {
+    "id": 13,
+    "name": "BCS 13th",
+    "type": "General BCS"
+  },
+  {
+    "id": 22,
+    "name": "BCS 22nd",
+    "type": "Special Health"
+  },
+  {
+    "id": 21,
+    "name": "21st BCS",
+    "type": "General BCS"
+  },
+  {
+    "id": 18,
+    "name": "BCS 18th",
+    "type": "General BCS"
+  },
+  {
+    "id": 12,
+    "name": "BCS 12th",
+    "type": "General BCS"
+  },
+  {
+    "id": 14,
+    "name": "BCS 14th",
+    "type": "General BCS"
+  }
+]

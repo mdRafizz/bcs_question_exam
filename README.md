@@ -11,7 +11,7 @@ This application provides a platform for users to practice previous year's Bangl
 
 ## Screenshots
 * **Dashboard**
-  ![Image](https://github.com/user-attachments/assets/9ef2cecc-7982-48c5-8da1-81f75569c65f)
+  ![Image](https://github.com/user-attachments/assets/9ef2cecc-7982-48c5-8da1-81f75569c65f = 250*250)
 
 * **Preli Questions**
   ![Image](https://github.com/user-attachments/assets/6a34dc4b-303c-411e-b77b-440465767e9c)

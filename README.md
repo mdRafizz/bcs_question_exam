@@ -10,7 +10,7 @@ This application provides a platform for users to practice previous year's Bangl
 * **Customized Exams:** Create personalized exams by selecting specific subjects or topics for targeted practice.
 
 ## Screenshots
-* **Dashboard**
+
   <img src="https://github.com/user-attachments/assets/9ef2cecc-7982-48c5-8da1-81f75569c65f" width="135" height="315" alt="Dashboard">
 
 * **Preli Questions**

@@ -23,7 +23,7 @@ This application provides a platform for users to practice previous year's Bangl
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/dc648f1f-77bc-4acd-8942-0b237166ef60" width="180" height="420" alt="Set Custom Exam">
-      <br>Set Custom Exam
+      <br>Result Analysis
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9ae01a33-4658-46c1-8bc0-ca489aadb7bd" width="180" height="420" alt="ExamRoom">
@@ -31,7 +31,7 @@ This application provides a platform for users to practice previous year's Bangl
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3ce4be69-83a0-4d51-bda8-83a7bb588b79" width="180" height="420" alt="ResultAnalysis">
-      <br>Result Analysis
+      <br>Set Custom Exam
     </td>
   </tr>
 </table>
